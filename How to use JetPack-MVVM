@@ -1,0 +1,8 @@
+HOW TO USE JetPack MVVM
+
+1.To create a screen go to the ui package and create a new package then name it.
+2.The new package created must be a kotlin file.
+3.Now go to the Route.kt file and update the routes to facilitate the new screen.
+4.Then go to the AppNavHost.kt and add a new composable for the new route.
+5.Paste the details in a screen to the new screen then edit the function name.
+6.Now edit the clickable text to fit the screen it is in.
